@@ -1,5 +1,8 @@
-### Hi there 👋
+### This is Roberto Saavedra👋
 
+I am an incoming third year Statistics student, right now I am looking forward to learn Machine Learning, so I hope you can find interesting stuff here.
+
+You can reach me at robertocarlos.saavedrabaylon@gmail.com, and you can check my LinkedIn as well www.linkedin.com/in/rsaavedr/
 <!--
 **robertosaavedr/robertosaavedr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
