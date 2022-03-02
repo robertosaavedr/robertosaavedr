@@ -1,6 +1,6 @@
 ### This is Roberto Saavedra👋
 
-I am an fourth year Applied Statistics student, I am mainly interested in Machine Learning, Statistical Modelling and Programming...
+I am a fourth year Applied Statistics student, I am mainly interested in Machine Learning, Statistical Modelling and Programming...
 
 You can reach me at robertocarlos.saavedrabaylon@gmail.com, and you can check my LinkedIn as well www.linkedin.com/in/rsaavedr/
 <!--
