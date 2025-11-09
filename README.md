@@ -1,6 +1,6 @@
 ### This is Roberto Saavedra👋
 
-I have a Bachelor's Degree in Applied Statistics, and now I work as a software developer. I am mainly interested in Machine Learning, Statistical Modelling and Programming...
+I have a Bachelor's Degree in Applied Statistics, and now I work as a software developer. I am mainly interested in Machine Learning, Statistics and Programming...
 
 You can reach me at robertocarlos.saavedrabaylon@gmail.com, and you can check my LinkedIn as well www.linkedin.com/in/rsaavedr/
 <!--
